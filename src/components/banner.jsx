@@ -18,7 +18,6 @@ const items = [
     },
     {
         src: BannerImg3,
-
         caption: '',
         key: '3'
     }
