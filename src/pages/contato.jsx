@@ -100,7 +100,7 @@ const Contato = () => {
             </ItemInfo>
             <ItemInfo>
               <FaPhoneAlt />
-              <span>(21) 2734-4111</span>
+              <span>(21) 99940‑4111</span>
             </ItemInfo>
             <ItemInfo>
               <FaEnvelope />
@@ -131,10 +131,6 @@ const Contato = () => {
     </>
   );
 };
-
-
-
-
 
 export default Contato;
 
